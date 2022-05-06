@@ -18,6 +18,7 @@
   "NSFWAPIKey": "891bb659-203e-4cb5-bffd-f40845d393d0",
   "loginToken": "XBulbiMo6T6JVfNcevxXCbqHHmCsNwSLyUXavWao",
   "loginUrl": "https://prod.men.gov.ma/identity/GetToken",
+  "communityHost": "http://195.110.59.189",
   
   "isElementarySnackbarShowing": false,
   "isElementarySnackbarClickable": false,
