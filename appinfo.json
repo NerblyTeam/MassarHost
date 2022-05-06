@@ -4,7 +4,7 @@
   "allowed_version": 100,
   
   "isAudioEnabled": false,
-  "isGIFEnabled": true,
+  "isGIFEnabled": false,
   "isImageEnabled": true,
   "isCommunicatingThroughAPI": true,
   "title": "مجتمع مسار تحت الصيانة مؤقتا",
