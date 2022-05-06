@@ -1,7 +1,7 @@
 {
   "NOTE_FOR ANYONE_WHO_IS_READING_THIS": "WTF ARE YOU DOING HERE",
   "app_status": true,
-  "allowed_version": 100,
+  "allowed_version": 101,
   
   "isAudioEnabled": true,
   "isGIFEnabled": true,
@@ -10,7 +10,7 @@
   "title": "مجتمع مسار تحت الصيانة مؤقتا",
   "subtitle": "نحن نقوم بصيانة مجتمع مسار، سنقوم بإعلامك عند عودته للعمل إذا كنت مسجلا في خدمة تحديثات حالة مسار.",
   "shouldBanRootedDevices": false,
-  "chat_status": false,
+  "chat_status": true,
   "elementary_status": true,
   "preparatory_status": true,
   "secondary_status": true,
