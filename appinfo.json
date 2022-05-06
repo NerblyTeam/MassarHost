@@ -1,6 +1,6 @@
 {
   "NOTE_FOR ANYONE_WHO_IS_READING_THIS": "WTF ARE YOU DOING HERE",
-  "app_status": false,
+  "app_status": true,
   "allowed_version": 100,
   
   "isAudioEnabled": true,
