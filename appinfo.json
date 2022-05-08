@@ -48,13 +48,13 @@
   "secondarySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
 
   "isSnackbarShowingGlobally": true,
-  "isGlobalSnackbarClickable": true,
+  "isGlobalSnackbarClickable": false,
   "isGlobalSnackbarBrowsable": true,
   "isGlobalSnackbarUsingIntent": false,
   "globalNotificationSnackbarClassName": "com.nerbly.moutamadris.activities.VoteActivity",
   "globalNotificationSnackbarGoTo": "https://shorturl.at/jCDG4",
-  "globalSnackbarTitle": "ما الميزات التي تود رؤيتها في التطبيق؟",
-  "globalSnackbarDesc": "نود إضافة ميزات جديدة للتطبيق ونحتاج رأيك حول الموضوع، إضغط هنا وأخبرنا بالميزات التي تريدها أن تكون في التطبيق.",
+  "globalSnackbarTitle": "الجيل الجديد من مجتمع مسار",
+  "globalSnackbarDesc": "مرحبا بك في الجيل الجديد من مجتمع مسار، تمت إعادة بناء مجتمع مسار ليكون أسرع وبميزات أكبر، إكتشفها الآن.",
 
 
   "verified_users": [
