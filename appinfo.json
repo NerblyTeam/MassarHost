@@ -3,7 +3,7 @@
   "app_status": true,
   "allowed_version": 100,
   
-  "isAudioEnabled": false,
+  "isAudioEnabled": true,
   "isGIFEnabled": true,
   "isImageEnabled": true,
   "isCommunicatingThroughAPI": true,
@@ -58,8 +58,7 @@
 
 
   "verified_users": [
-    "f70f435a2fa0a2f0",
-    "9d0a5a2475e26d8b"
+    "24feb1f1fccde606"
   ],
   "identity_checked_users": [
     "f70f435a2fa0a2f0"
