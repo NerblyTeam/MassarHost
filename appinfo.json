@@ -3,7 +3,7 @@
   "app_status": true,
   "allowed_version": 100,
   
-  "isAudioEnabled": true,
+  "isAudioEnabled": false,
   "isGIFEnabled": true,
   "isImageEnabled": true,
   "isCommunicatingThroughAPI": true,
