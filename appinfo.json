@@ -21,7 +21,7 @@
   "loginUrl": "https://prod.men.gov.ma/identity/GetToken",
   "communityHost": "http://195.110.59.189",
   
-  "isElementaryReactionsEnabled": false,
+  "isElementaryReactionsEnabled": true,
   "isPreparatoryReactionsEnabled": true,
   "isSecondaryReactionsEnabled": true,
   
