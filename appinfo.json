@@ -20,6 +20,7 @@
   "loginToken": "XBulbiMo6T6JVfNcevxXCbqHHmCsNwSLyUXavWao",
   "loginUrl": "https://prod.men.gov.ma/identity/GetToken",
   "communityHost": "http://195.110.59.189",
+  "communityWebsocketServer": "ws://195.110.59.189:3000",
   
   "isElementaryReactionsEnabled": true,
   "isPreparatoryReactionsEnabled": true,
