@@ -3,7 +3,7 @@
   "app_status": true,
   "allowed_version": 103,
   
-  "communityCooldown": 15000,
+  "communityCooldown": 10000,
   "isAudioEnabled": true,
   "isGIFEnabled": true,
   "isImageEnabled": true,
