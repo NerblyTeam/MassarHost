@@ -5,7 +5,7 @@
   
   "communityCooldown": 10000,
   "isAudioEnabled": true,
-  "isGIFEnabled": true,
+  "isGIFEnabled": false,
   "isImageEnabled": true,
   "isCommunicatingThroughAPI": true,
   "title": "مجتمع مسار تحت الصيانة مؤقتا",
@@ -99,7 +99,7 @@
   "7xwJVX49bXZTmLAz0nqGh6PvoQt1"
   ],
   "banned_users": [
-    "52677eb9b7e52193",
+    "4cbc17fe20d2dd70",
     "71d4dbbc8cf33b3e"
   ],
   
