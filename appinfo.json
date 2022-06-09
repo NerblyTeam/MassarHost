@@ -24,7 +24,7 @@
   
   "isElementaryReactionsEnabled": true,
   "isPreparatoryReactionsEnabled": true,
-  "isSecondaryReactionsEnabled": false,
+  "isSecondaryReactionsEnabled": true,
   
   "isElementarySnackbarShowing": false,
   "isElementarySnackbarClickable": false,
