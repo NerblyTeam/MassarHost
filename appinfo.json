@@ -5,7 +5,7 @@
   
   "communityCooldown": 10000,
   "isAudioEnabled": true,
-  "isGIFEnabled": false,
+  "isGIFEnabled": true,
   "isImageEnabled": true,
   "isCommunicatingThroughAPI": true,
   "title": "مجتمع مسار تحت الصيانة مؤقتا",
