@@ -3,7 +3,7 @@
   "app_status": true,
   "allowed_version": 103,
   
-  "communityCooldown": 10000,
+  "communityCooldown": 12000,
   "isAudioEnabled": true,
   "isGIFEnabled": true,
   "isImageEnabled": true,
@@ -70,50 +70,16 @@
     "f70f435a2fa0a2f0"
   ],
   "loved_users": [
-   "bAt5swfbXkcVfCuGjBle5HbWJSh1",
-   "SLXdohO3xUdP6v5958lFv7vcBes2",
-   "49zydhOgYmTIs3xBQa7P7Wpnsbm1",
-   "UablBtzXglaPAG6prVn4Iv50sz83",
-   "VKHMXF4m31eghxjI0dpWIuqrroJ3",
-   "Ro5ykAxIgeMOIFr6TNUYfqH4UFW2",
-   "dpwAlVeKpHZGPOVXh8KN0MGUFvc2",
-   "tXzmv3dRSrd8YtMzlwWNQwTc3mf1",  
-   "J5USMRqIfQcpzbS4tnu7ax9fGMc2",
-   "AYa1g8s3ffPw3JUpJDbWjfMclo43",
-   "LvcD6sPmpHfFSY2VV79LFG6kfwt2", 
-   "SKGKgNRvDCcZxcLTVeGt9l8Oxwz1"
+   "UNKNWON"
   ],
   "crowned_users": [
-  "tm6xZkwl2yOvcm1aGp4vWae38UV2",
-  "yl025KFGrQOIdkVvWDJC8RxtK2G3",
-  "JRrQztyB7LROWgk1AFIB2l95eH22",
-  "KetwfPiTSBSWRtMA7bvS1XthhFu2",
-  "P3MZNewZ1oYAAwEXBGH43adq1zW2",
-  "lkcPjJhR7AV3CW8xGbTW00dJMW73",
-  "388S4aYaHXNZSqnXsXyQgsCAN2F3",
-  "VO6Gbi6qTcOj9SUjfv3klNNEjPL2",
-  "zwmfEiQmYqRZOSuB8YpWq4lzyk72",
-  "H5tzSTVoAIbr0SWihMlwi86zFNC3",  
-  "9iTPPcn6mIMfv7F5JDQnhJBDcJD3",
-  "mSX4MA7Bk7UbWIsosIflmFRi7vS2",  
-  "YsM8SfNYjQXpZrio9LBlQQxOXJq1",
-  "VV0NvI7b34ZLnMSvLKkfCZzQKE52"
+   "UNKNWON"
   ],
   "active_users": [
-  "K2mkO0gG64bfmDJXA3ERRhcMHTJ2",
-  "soFusSm4ShSg7nCbLaQ76RETHsG2", 
-  "qBAoQs6JXbchAotBQ4IpDk74pks1",
-  "A6ye58OKDjPSvhT2mlfoZAz4HFw1",
-  "7xwJVX49bXZTmLAz0nqGh6PvoQt1"
+   "UNKNWON"
   ],
   "banned_users": [
-    "32fb701b63c1f746",
-    "4ac895a6dbdd163b",
-    "ccff2d87ea2b51a9",
-    "3f02e674fe985658",
-    "21a7840ff96fc9e4",
-    "4cbc17fe20d2dd70",
-    "71d4dbbc8cf33b3e"
+   "UNKNWON"
   ],
   
   "banned_words": [
