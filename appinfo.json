@@ -3,7 +3,7 @@
   "app_status": true,
   "allowed_version": 103,
   
-  "communityCooldown": 12000,
+  "communityCooldown": 0,
   "isAudioEnabled": true,
   "isGIFEnabled": true,
   "isImageEnabled": true,
@@ -11,7 +11,7 @@
   "title": "مجتمع مسار تحت الصيانة مؤقتا",
   "subtitle": "إستعدادا للتحديث الجديد، نحن نقوم بالصيانة لمدة 10 دقائق.",
   "shouldBanRootedDevices": true,
-  "chat_status": false,
+  "chat_status": true,
   "elementary_status": true,
   "preparatory_status": true,
   "secondary_status": true,
